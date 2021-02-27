@@ -24,3 +24,4 @@ If your algorithm is written in python you may tweak this code to invoke the alg
 The set of dynamic parameters are set within `strongwrapper.py` itself in the `commandBuilder` function.
 
 The GetScore function may also be overwritten to fit your needs.
+
