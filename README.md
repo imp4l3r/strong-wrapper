@@ -25,3 +25,4 @@ The set of dynamic parameters are set within `strongwrapper.py` itself in the `c
 
 The GetScore function may also be overwritten to fit your needs.
 
+When you have made the desired modifications to fit your needs, then you simply invoke the IStrongWrapper.py in the algorithm entry in your SMAC scenario file and you are good to go.
