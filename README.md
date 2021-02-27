@@ -1,7 +1,7 @@
 # strong-wrapper
 SMAC is a very powerful tool for optimizing parameters for an algorithm.
 However, to optimize these parameters you need a good wrapper.
-This is also discussed in great detail in [this article](https://ai.dmi.unibas.ch/research/reading_group/eggensperger-et-al-jair2019.pdf)
+This is also discussed in great detail in [this article](https://ai.dmi.unibas.ch/research/reading_group/eggensperger-et-al-jair2019.pdf).
 Essentially, a wrapper with poor performance can make or break the outcome of parameter configuration.
 
 During my 5th semester project where we worked in a group with ant colony optimization I developed this wrapper.
